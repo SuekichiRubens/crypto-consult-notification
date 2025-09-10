@@ -27,7 +27,7 @@ das moedas sem o acompanhamento síncrono dos painéis de cada moeda na Corretor
 
 🔲Linguagem: Python 3.8+
 
-🔲Banco de dados: MySQL / MariaDB
+🔲Banco de dados: MySQL
 
 🔲APIs e Integrações: Protocolo https / JSON
 
